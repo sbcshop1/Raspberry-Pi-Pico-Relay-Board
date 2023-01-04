@@ -12,7 +12,7 @@ def AllOn():
     relay3.value(1)
     relay4.value(1)
     
- def AllOff():
+def AllOff():
     relay1.value(0)
     relay2.value(0)
     relay3.value(0)
